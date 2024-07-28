@@ -1,0 +1,5 @@
+# This project uses only Python standard library modules.
+# No additional packages are required.
+
+# Specify the minimum Python version
+python>=3.6
