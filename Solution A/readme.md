@@ -28,6 +28,3 @@ This is a simple number guessing game implemented in Python. The game generates 
 
 - Python 3.x
 
-## Running the Game
-
-Execute the script in a Python environment:
